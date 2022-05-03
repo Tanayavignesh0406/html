@@ -1,0 +1,152 @@
+<html>
+	<head>
+		<title>THE ESTÉE E-LIST</title>
+		<style>
+			*{
+				line-height: 30px;
+			}
+			.head-img{
+				margin-left:  15em;
+				margin-right:  15em;
+			}
+			.center{
+				text-align: center;
+			}
+			div{
+				line-height: 25px;
+			}
+			button{
+				padding: 5px 30px;
+				background-color: black;
+				color: white;
+				border: 2px solid black;
+			}
+			.btn1{
+				background-color: white !important;
+				color: black !important;
+			}
+			.offer{
+				font-size: 30px;
+			}
+			footer{
+				background-color: #040a2b;
+				color:  white;
+				padding:  40px;
+			}
+			.earning-points{
+				background-color: #040A2B;
+				color: white;
+				margin: 0 25vw;
+			}
+			.italic{
+				font-style: italic;
+			}
+			.container{
+				display: flex;
+				margin: 0vh 20vw;
+				text-align: left;
+			}
+			.col{
+				margin: 1vw;
+			}
+			.line{
+				border-bottom:  1px solid black;
+				width: 100%;
+				display: inline-block;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<img src="pic.png" class="head-img"/>
+		</header>
+		<div class="center">
+
+			<h2 class="italic">
+				YOUR FRONT ROW SEAT</br>
+				TO THE BEST IN BEAUTY.
+			</h2>
+
+			<p>
+				Accumulate points, unlock rewards and enjoy amazing benefits.</br>
+				Receive instant access to exclusives and events.</br>
+				And this is only the beginning.</br>
+			</p>
+
+			<P>
+				SIGN UP NOW TO</br>
+
+				<span class="offer">RECEIVE 15% OFF</span></br>
+				one order as a loyalty member.
+			</P>
+
+			<div>
+				<button>JOIN NOW</button>
+				<button class="btn1">SIGN IN</button>
+			</div>
+
+			<h2 class="italic">
+				YOU’LL LOVE IT
+			</h2>
+			<p>
+				Our Estée E-List Rewards Are Hand-Curated By The Estée Experts.
+			</p>
+			<div class="container">
+				<div class="col">
+					<h2 class="italic">BE EXCITED</h2>
+					<span class="line"></span>
+					<p>0-249 POINTS</p>
+					<ul>
+						<li>15% Off One Online Order</li>
+						<li>Birthday Gift</li>
+						<li>Free Samples with Every Purchase</li>
+						<li>Free Standard Shipping and Free Returns</li>
+						<li>Early Access to Events and Products</li>
+					</ul>
+				</div>
+				<div class="col">
+					<h2 class="italic">BE ENTHUSIASTIC</h2>
+					<span class="line"></span>
+					<p>250-649 POINTS<br /> All Tier 1 benefits, plus:</p>
+					<ul>
+						<li>20% Off One Online Order<br />(at 250 points)</li>
+						<li>Free Full-Size Product (at 450 points)</li>
+						<li>Product Previews</li>
+						<li>Online Events</li>
+						<li>In-Store Member Events</li>
+						<li>Complimentary Engraving on Select Products</li>
+					</ul>
+				</div>
+				<div class="col">
+					<h2 class="italic">BE ENVIED</h2>
+					<span class="line"></span>
+					<p>650+ Points <br /> All Tier 1 and Tier 2 benefits, plus</p>
+					<ul>
+						<li>Free Full-Size Product (at 650 points)</li>
+						<li>Free-2-Day Shipping with $75+ <br />purchase (at 650 points)</li>
+						<li>Your Personal Beauty Advisor</li>
+						<li>VIP Member Events</li>
+					</ul>
+				</div>
+				<div class="col">
+				</div>
+				<div class="col">
+				</div>
+			</div>
+			<div class="earning-points">
+				<h2 class="italic">
+					EARNING POINTS
+				</h2>
+				<p>
+					Earn 1 point for every $1 spent online and in store.</br>
+					Plus: Surprise and Bonus Points, Points for Writing Product Reviews.</br>
+					Bonus Points for orders fulfilled through Auto Replenishment.</br>
+					Double Points Events and more!</br>
+
+					Still have questions? <a href="#">Learn more about rewards and points.</a>
+
+				</p>
+			</div>
+		</div>
+
+</html>
